@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-radioaws-dev-52735-authRole",
+      "UnauthRoleArn": "arn:aws:iam::251058801339:role/amplify-radioaws-dev-52735-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::251058801339:role/amplify-radioaws-dev-52735-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-radioaws-dev-52735-deployment",
+      "UnauthRoleName": "amplify-radioaws-dev-52735-unauthRole",
+      "StackName": "amplify-radioaws-dev-52735",
+      "StackId": "arn:aws:cloudformation:eu-west-1:251058801339:stack/amplify-radioaws-dev-52735/35ae1f30-e490-11ec-9133-0a3d72d8037d",
+      "AmplifyAppId": "d1wvum326y4amy"
+    }
+  }
+}
