@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "radioaws",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/workspace/radio-aws/amplify/backend/api/radioaws/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
